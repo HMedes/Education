@@ -1,6 +1,6 @@
 ---
 title: "Data Management Planning"
-author: "DataONE Community Engagement & Outreach Working Group"
+author: "DataONE Community Engagement & Outreach Working Group", Heather Medes
 update: Sept. 20, 2016
 layout: slides
 
